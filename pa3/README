@@ -1,0 +1,17 @@
+//#Mythili Karra
+//#mmkarra
+//#12B
+//#2/8/2019
+This is the README
+
+
+
+			TABLE OF CONTENTS
+- README -  table of contents, notes to grader
+- Dictionary.java -  created by you
+- DictionaryTest.java -  created by you
+- DuplicateKeyException.java -  created by you
+- KeyNotFoundException.java -  created by you
+- DictionaryInterface.java -  unchanged
+- DictionaryClient.java -  unchanged
+- Makefile -  alter at your discretion

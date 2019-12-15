@@ -1,0 +1,4 @@
+--- out5.txt	2019-02-23 01:18:53.000000001 -0800
++++ model-out5.txt	2019-02-23 01:18:52.000000001 -0800
+@@ -0,0 +1 @@
++Enter a positive integer: Please enter a positive integer: Please enter a positive integer: Enter another positive integer: Please enter a positive integer: Please enter a positive integer: The GCD of 35 and 5 is 5
