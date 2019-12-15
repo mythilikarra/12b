@@ -1,0 +1,13 @@
+Mythili Karra
+mmkarra
+12M
+01/22/2019
+
+			  TABLE OF CONTENTS
+Lab 1 was mainly an assigment in which we learned how to get a basic introduction to the Andrew File System (AFS)
+which is the file system used by the ITS unix timshare, how to create an executable jar file
+containing a Java program, and learn to automate compilation and other tasks using Makefiles.
+ - README
+ - Makefile
+ - HelloUser.java
+ - HelloUser2.java
